@@ -1,9 +1,14 @@
 # An Interview with Universal Audio Software Engineer Chris Howe
 ### By Mir Jeffres
  
+![alt text][id]
+
+[id]: unknown.png "titleimg" 
+
 On November 11, 2021, I sat down with Chris Howe on Zoom to discuss his journey in the music technology field. Chris is a graduate of Georgia Tech’s Masters in Music Technology program, and has worked at Moog and now Universal Audio as a software engineer. At Moog, he worked extensively on the Moog One synthesizer, and now at Universal Audio, he works on the guitar pedals team. He started the annual Moog Hackathon at Georgia Tech, a program in which students create an interactive instrument with a Moog Werkstatt in 48 hours. This love for interactive music can be seen even in his undergrad, in which he created interactive installation art pieces. When he went to Georgia Tech for grad school, the undergrad program in Music Technology did not exist, and it just so happens that he was the TA for a class I am taking now, 8 years later. I chose to interview Chris because his career path seemed like one I wanted to follow, and throughout talking I realized we had even more in common through music technology. This interview was a useful glimpse into what life can be like after a music technology degree, and how to network and find jobs in a field you are passionate about. 
  
  
+
 ### So I know you're a software engineer at Universal Audio, what would you say that that your roles and responsibilities at the job are, and your role at the company?
 UA is still a fairly small company, so there's a lot of you know there's a wide variety of responsibilities that you can find a place for yourself in software, so I've worked on things as low-level as the bootloader and operating systems work. I'm on the guitar pedals team, so all of our products that are that guitar related or guitar pedal related. I've done work on the bootloader and like really low level sort of stuff all the way up to JavaScript and Python build systems. I think one nice thing about smaller companies is that you have a larger diversity of learning opportunities to get your feet wet in a bunch of different areas and learn a lot about a lot of different things.
 
